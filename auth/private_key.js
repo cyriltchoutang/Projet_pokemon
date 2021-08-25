@@ -1,0 +1,1 @@
+module.exports = 'CUSTOM_PRIVATE_KEY' // clé secrete. 2ieme info pour creer une jeton
